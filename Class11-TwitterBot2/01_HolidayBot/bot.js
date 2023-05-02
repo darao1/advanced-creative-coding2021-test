@@ -88,3 +88,5 @@ function botTweet(error, data, response){
         }
     }
 }
+
+print("hello")
